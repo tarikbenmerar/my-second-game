@@ -20,6 +20,6 @@ Ultimately, I began coding the first game in Flash (Snake), and the second one m
 
 Honestly, I don't remember. I found a basic interpreter that give me access to some Sprite APIs that I could exploit to generate the videogame graphics.
 
-## What you became right now ?
+## What you become right now ?
 
 I hold a PhD in Computing (Cloud Computing and dMRI). I am a lecturer at the USTHB university, Algeria. I am also a web development consultant at Toptal and have an entrepreneurship project throught Acigna Inc.. I basically accomplished my dream but the initial magic and excitement has faded away through years. I always miss those initial years.
