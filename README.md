@@ -14,7 +14,7 @@ Through the following six-seven years, I cameback to programming from time to ti
 
 Thanks to Internet, I read a whole course on Algorithm back in summer 2005 (right after getting my baccalauréat) that opened my eyes. The course taught me that I had all the basics needed while explaining me more elaborate concepts such as functions and procedures and why they are used (decomposing a program). This game summarizes my first real programming knowledges (No OOP yet).
 
-Ultimately, I began coding the first game in Flash (Snake), and the second one mentionned in this repo.
+Ultimately, I began coding the first game in Flash (Snake), and the second one mentionned in this repo. The game is inspired by the sokoban game I played at that time on a motorola gsm phone and includes its levels.
 
 ## How to run it ?
 
